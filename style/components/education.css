@@ -43,3 +43,35 @@
     margin-top: -0.25rem;
     margin-left: 1rem;
 }
+
+
+@media (max-width: 1536px){
+
+}
+
+@media (max-width: 1280px){
+    
+}
+
+@media (max-width: 1024px){
+    
+}
+
+@media (max-width: 768px){
+    .education__info-institute{
+        font-size: var(--size-sm);
+    }
+    
+    .education__info-diploma,
+    .education__info-diploma-list{
+        font-size: var(--size-xs);
+    }
+}
+
+@media (max-width: 640px){
+
+}
+
+@media (max-width: 475px){
+
+}
