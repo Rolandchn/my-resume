@@ -2,7 +2,7 @@
 
 
 .container{
-    width: 100%;
+    width: 1536px;
     margin-inline: auto;
     padding-inline: 0.5rem;
 }
@@ -35,5 +35,34 @@
 
 .margin-top0{
     margin-top: 0;
+}
+
+
+@media (max-width: 1536px){
+    .container{
+        max-width: 1280px;
+    }
+
+}
+
+@media (max-width: 1280px){
+    .container{
+        max-width: 1024px;
+    }
+    
+}
+
+@media (max-width: 1024px){
+    .container{
+        max-width: 768px;
+    }
+    
+}
+
+@media (max-width: 768px){
+    .container{
+        max-width: 640px;
+    }
+    
 }
 
