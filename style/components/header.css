@@ -53,7 +53,16 @@
 }
 
 @media (max-width: 640px){
+    .header__menu--list{
+        display: grid;
+        grid-template-columns: repeat(2, minmax(20ch, 1fr));
+        
+        gap: 0;
+    }
 
+    .header__menu--list-separator{
+        display: none;
+    }
 }
 
 @media (max-width: 475px){
