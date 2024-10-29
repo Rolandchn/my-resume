@@ -10,5 +10,3 @@ I love learning new stuff everyday, and I love creating stuff that lives on the 
 
 
 French-born, Chinese heritage, raised in South-America.
-
-Roland Chen
