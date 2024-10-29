@@ -1,0 +1,41 @@
+
+
+.experience__info{
+    margin-top: 0.25rem;
+}
+
+
+.experience__info--container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.experience__info-title{
+    font-size: var(--size-base);
+    line-height: 1;
+}
+
+.experience__info-location{
+    font-size: var(--size-xs);
+    font-weight: 700;
+}
+
+.experience__description{
+    font-size: var(--size-xs);
+    font-style: italic;
+
+    text-transform: capitalize;
+
+    margin-top: -0.25rem;
+}
+
+.experience__date{
+    float: right;
+}
+
+.experience__responsability{
+    font-size: var(--size-sm);
+    padding-left: 2em;
+}
+

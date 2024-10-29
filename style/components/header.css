@@ -1,0 +1,33 @@
+
+
+
+.header{
+    text-align: center;
+    margin-bottom: 0.75rem;
+}
+
+.header__title{
+    font-size: var(--size-3xl);
+
+    line-height: 1;
+}
+
+.header__menu{
+    margin-top: 0.25rem;
+}
+
+.header__menu--list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    gap: 0.5rem;
+    list-style-type: none;
+
+    font-size: var(--size-xs);
+}
+
+.header__menu--list-separator{
+    border: 1px solid var(--clr-black);
+    padding-top: 1rem;
+}

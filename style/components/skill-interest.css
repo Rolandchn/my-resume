@@ -1,0 +1,10 @@
+
+
+.skill,
+.interest{
+    font-size: var(--size-sm);
+}
+
+.interest{
+    margin-top: 0.25rem;
+}
