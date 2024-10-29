@@ -8,4 +8,5 @@ I love learning new stuff everyday, and I love creating stuff that lives on the 
 
 "Every small steps is a great step to success.", and I will commit to it until I reach my goal.
 
+
 French-born, Chinese heritage, raised in South-America.
