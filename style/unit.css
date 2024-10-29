@@ -91,7 +91,7 @@
     .title{
         font-size: var(--size-base);
     }
-    
+
 }
 
 @media (max-width: 640px){
