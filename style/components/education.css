@@ -66,6 +66,10 @@
     .education__info-diploma-list{
         font-size: var(--size-xs);
     }
+
+    .education__info-diploma-description{
+        display: none;
+    }
 }
 
 @media (max-width: 640px){
