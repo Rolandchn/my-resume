@@ -63,7 +63,13 @@
 }
 
 @media (max-width: 640px){
+    .experience__info-location{
+        display: none;
+    }
 
+    .experience__date{
+        display: none;
+    }
 }
 
 @media (max-width: 475px){
