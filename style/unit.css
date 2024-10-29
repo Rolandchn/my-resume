@@ -66,3 +66,16 @@
     
 }
 
+@media (max-width: 640px){
+    .container{
+            max-width: 475px;
+    }
+    
+}
+
+@media (max-width: 475px){
+    .container{
+        max-width: 100%;
+   }
+}
+   
