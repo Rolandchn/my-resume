@@ -1,12 +1,15 @@
 
-
-.skill,
-.interest{
+.info{
     font-size: var(--size-sm);
 }
 
-.interest{
+
+.info{
     margin-top: 0.25rem;
+}
+
+.margin-top0{
+    margin-top: 0;
 }
 
 
@@ -23,8 +26,7 @@
 }
 
 @media (max-width: 768px){
-    .skill,
-    .interest{
+    .info{
         font-size: var(--size-xs);
     }
 }
